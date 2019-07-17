@@ -11,19 +11,19 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://eagleho0523.github.io/ojedujrb4gs9dh/iOS/AC001CL.ipa</string>
+                    <string>https://eagleho0523.github.io/ojedujrb4gs9dh/iOS/1562687795844-signed.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ddm.wallet.gp50</string>
+                <string>com.ddmx.ttf.game</string>
                 <key>bundle-version</key>
                 <string>1.1</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>title</key>
-                <string>战神云钱包</string>
+                <string>TTF GAME</string>
             </dict>
         </dict>
     </array>
