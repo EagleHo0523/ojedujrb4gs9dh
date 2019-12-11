@@ -1,2 +1,1 @@
-# TTF
-TTF GAME
+停用
